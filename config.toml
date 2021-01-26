@@ -1,0 +1,4 @@
+baseURL = "https://simplequotesbleruly.vercel.app"
+languageCode = "en-us"
+title = "Life Quotes Simple"
+theme = "tale-hugo-master"
